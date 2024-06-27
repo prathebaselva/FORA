@@ -4,4 +4,4 @@ Diffusion transformers (DiT) have become the de facto choice for generating high
 ![Teaser](FORA_teaser.png)
 
 ## Code
-Will be released July 5
+Will be released **July 5**!!
