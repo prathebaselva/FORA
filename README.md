@@ -29,5 +29,3 @@ python src/sample.py --save-cache 'boost_infer_static' --cache-subtype 'default'
 - Thanks to [DiT](https://github.com/facebookresearch/DiT) for their great work and codebase upon which we build FORA.
 - Thanks to [PixArt-alpha](https://github.com/PixArt-alpha/PixArt-alpha) for their wonderful work and contribution
 
-## Code
-Will be released **July 5**!!
