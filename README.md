@@ -16,6 +16,7 @@ conda create -n FORA python=3.9
 conda activate FORA
 pip install torch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 --index-url https://download.pytorch.org/whl/cu118
 ```
+## DiT sampling
 - To sample for single ImageNet class with conditional guidance strength 1.5, with caching frequency 3, with output image size 512 and with DDIM steps 250
 ```bash
 python src/sample.py --save-cache 'boost_infer_static' --cache-subtype 'default' --cache-threshold '3' --image-size 512 --seed 1 --cfg-scale 1.5 --num-sampling-steps 250
