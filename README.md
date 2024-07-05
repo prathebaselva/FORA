@@ -3,5 +3,9 @@ Diffusion transformers (DiT) have become the de facto choice for generating high
 
 ![Teaser](FORA_teaser.png)
 
+## Acknowledgements
+- Thanks to [DiT](https://github.com/facebookresearch/DiT) for their great work and codebase upon which we build FORA.
+- Thanks to [PixArt-alpha](https://github.com/PixArt-alpha/PixArt-alpha) for their wonderful work and contribution
+
 ## Code
 Will be released **July 5**!!
