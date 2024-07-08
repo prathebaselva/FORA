@@ -25,6 +25,9 @@ python src/sample.py --save-cache 'boost_infer_static' --cache-subtype 'default'
 ```bash
  torchrun --nnodes=1 --nproc_per_node=4 src/sample_ddp.py --num-fid-samples 50000 --save-cache 'boost_infer_static' --cache-subtype 'default' --cache-threshold '3' --image-size 256 --per-proc-batch-size 4 --sample-dir 'samples' --cfg-scale 1.5 --num-sampling-steps 250
 ```
+
+## PixelAlpha Sampling
+Coming up!!
 ## Acknowledgements
 - Thanks to [DiT](https://github.com/facebookresearch/DiT) for their great work and codebase upon which we build FORA.
 - Thanks to [PixArt-alpha](https://github.com/PixArt-alpha/PixArt-alpha) for their wonderful work and contribution
